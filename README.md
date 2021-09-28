@@ -25,7 +25,7 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard
 ```
 
 ### Map database
-Can be found on googlde drive https://drive.google.com/file/d/1-X9dnJHejUtiyIVxSU-y4Y7gLUlHAq6k/view?usp=sharing
+Can be found on googlde drive https://drive.google.com/file/d/1qmboehoJe7ap-ZPlH_KcBJF5xaLCP8Mm/view?usp=sharing
 
 ### Known Issues
 #### Gazebo crash
