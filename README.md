@@ -1,5 +1,5 @@
 # udacity-mapmy-world
-## Project 4: Map My World From Udacity Robotics Engeneer Nanodegree
+## Project 4: Map My World From Udacity Robotics Engineer Nanodegree
 
 ### How to install
 Simply put all three packages to the catkin_ws/src directory and run
